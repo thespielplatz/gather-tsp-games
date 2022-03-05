@@ -5,7 +5,7 @@ module.exports = {
             name: "GatherTSPGames",
             script: "./index.js",
             env: {
-                NODE_PORT: 2003
+                NODE_PORT: 2004
             }
         }
     ],
